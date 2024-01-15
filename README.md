@@ -1,3 +1,4 @@
+## Personal
 - 👋 Hi, I’m @ArmJi
 - 👀 I’m interested in Front-End Developer
 - 📫 How to reach me. Email : nattapol1193@gmail.com
